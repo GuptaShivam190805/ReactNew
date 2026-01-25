@@ -3,7 +3,7 @@ import { useLoaderData } from 'react-router-dom'
 
 function Github() {
 
-    const data = useLoaderData()
+    const data = useLoaderData();
 
     // const [data, setData] = React.useState([])
     // useEffect(()=>{
